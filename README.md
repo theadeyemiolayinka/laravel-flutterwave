@@ -18,7 +18,7 @@
 ## Credits
 
 - [Oluwole Adebiyi (Flamez)][link-author]
-- [Olayinka Adeyemi][https://github.com/theadeyemiolayinka]
+- [Olayinka Adeyemi](https://github.com/theadeyemiolayinka)
 - [Emmanuel Okeke](https://github.com/emmanix2002)
 - [Adebayo Mustafa](https://github.com/AdebsAlert)
 - [Tunde Aromire](https://github.com/toondaey)
