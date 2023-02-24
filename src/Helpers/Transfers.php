@@ -92,6 +92,21 @@ class Transfers
         return $transfer;
     }
 
+    /**
+     * Get All Fees
+     * @param $data
+     * @return object
+     */
+    public function allFees(array $data)
+    {
+        $transfer = Http::withToken($this->secretKey)->get(
+            $this->baseUrl . '/transfers/fee',
+            $data
+        )->json();
+
+        return $transfer;
+    }
+
 
     /**
      * Get All Transfers
